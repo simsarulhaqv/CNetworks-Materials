@@ -11,6 +11,9 @@ On a higher abstraction we can classify wireless networks according to two crite
 * Multi-hop, infrastructure-based: examples: wireless mesh networks.
 * Multi-hop, infrastructure-less: examples: mobile ad hoc networks (MANETs), vehicular ad hoc network (VANET).
 
+#CDMA
+
+Code division multiple access (CDMA) belongs to the family of channel partitioning protocols.
 
 
 ##Definitions:
@@ -23,3 +26,8 @@ Handoff: When a mobile host moves beyond the range of one base station and into 
 Hop: In computer networking, a hop is one portion of the path between source and destination.	
 
 Ad hoc Networks: In ad hoc networks, wireless hosts have no such infrastructure with which to connect. In this case, the host themselves must provides services such as routing, address assignment, DNS-like name translation, and more.
+
+SNR: Signal-to-Noise ratio usually measured in decibels(dB).
+
+
+
